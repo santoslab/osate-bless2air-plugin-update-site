@@ -3,7 +3,7 @@
    <description name="Sireum Bless 2 AIR Update Site">
       Sireum Bless 2 AIR Update Site
    </description>
-   <feature url="features/org.sireum.aadl.osate.bless2air.feature_1.0.0.202106021454.jar" id="org.sireum.aadl.osate.bless2air.feature" version="1.0.0.202106021454">
+   <feature url="features/org.sireum.aadl.osate.bless2air.feature_1.0.0.202106021923.jar" id="org.sireum.aadl.osate.bless2air.feature" version="1.0.0.202106021923">
       <category name="org.sireum.aadl.osate.category"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.category" label="Sireum">
